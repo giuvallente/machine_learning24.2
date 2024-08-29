@@ -1,6 +1,6 @@
 # Machine Learning
 
-Repositório da disciplina de machine learning.
+Repositório da disciplina de Machine Learning.
 
 ## Inicialização
 
